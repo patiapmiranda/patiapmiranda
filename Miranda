@@ -1,0 +1,4 @@
+mkdir Miranda
+cd Miranda
+git init
+git status
