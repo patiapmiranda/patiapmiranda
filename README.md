@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @patiapmiranda
 - 👀 I’m interested in being a programmer
-- 🌱 I’m currently learning programming Python
+- 🌱 I’m currently learning programming Python and Data Science 
 - 💞️ I’m looking to collaborate on knowledge
 - 📫 How to reach me patiapmiranda@gmail.com
 
